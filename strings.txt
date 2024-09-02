@@ -1,0 +1,18 @@
+strings
+string methods are
+isAplha()
+isdigit()
+isAlum()
+isUpper()
+isLower()
+capitalize
+replace(char,char)
+***
+ascii values
+CAPITAL LETTERS [A-Z] == [65-90]
+small letters [a-z] == [97-122]
+digits [0-9] == [48-57]
+SPECIAL CHARACTER
+123-129
+91-96
+to get ascii value for any value print(ord('a'))
